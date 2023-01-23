@@ -1,0 +1,212 @@
+,region,exposure_category,wri_category,vulnerability_category,susceptibility_category,wri,exposure,vulnerability,susceptibility,lack_of_coping_capabilities,lack_of_adaptive_capacities,year,exposure_Sklearn,vulnerability_categorymap,susceptibility_categorymap,exposure_categorymap,wri_categorymap
+0,Vanuatu,Very High,Very High,High,High,1.6406751871646796,56.33,0.8012525867378264,0.7927082417314734,0.5415563239102934,0.926242308843606,2011.0,0.5637583892617449,4,4,2,4
+1,Tonga,Very High,Very High,Medium,Medium,1.2925697980405444,56.04,0.3764592288482913,0.0305277472364494,0.707654887161164,0.1857358153666772,2011.0,0.560853450866473,3,3,2,4
+2,Philippinen,Very High,Very High,High,High,0.7251103280984613,45.09,0.5520866252873455,0.5928682340285099,0.773824233496877,0.1066605947061819,2011.0,0.4511669838725834,4,4,2,4
+3,Salomonen,Very High,Very High,Very High,High,0.6285468468688212,36.4,1.475211906077841,1.4405616620522437,0.9878618129705604,1.731821119322401,2011.0,0.3641190023039166,5,4,2,4
+4,Guatemala,Very High,Very High,High,High,0.3150135683083841,38.42,0.5884233279988741,0.6272593051215778,0.4396015147603682,0.5893489208212879,2011.0,0.3843534007813282,4,4,2,4
+5,Bangladesch,Very High,Very High,Very High,High,-0.093891049738117,27.52,1.372257915061844,1.5195681767255085,1.024322473196361,1.3224421123612955,2011.0,0.2751677852348993,5,4,2,4
+6,Timor-Leste,Very High,Very High,Very High,Very High,-0.093891049738117,25.97,1.6975579202888609,2.212966529034396,1.2046001820905992,1.4179913373260604,2011.0,0.2596413903636181,5,5,2,4
+7,Costa Rica,Very High,Very High,Low,Low,-0.1785331135319993,42.39,-0.6963386607301668,-0.6182551614922417,-0.5353835475740126,-0.788701539230883,2011.0,0.4241210057097065,2,2,2,4
+8,Kambodscha,Very High,Very High,High,High,-0.1976073814292122,26.66,1.2658432856923685,1.8281583281552007,1.0202712887268284,0.7491467625727056,2011.0,0.2665531403385756,4,4,2,4
+9,El Salvador,Very High,Very High,Medium,Medium,-0.2083366571213944,32.18,0.3193586960158898,0.1801753809116919,0.2721525566863191,0.4204903767025224,2011.0,0.3218471401382349,3,3,2,4
+10,Nicaragua,Very High,Very High,High,High,-0.2977472878895796,27.64,0.8124996613866324,1.1728690005710642,0.7886785765518329,0.3191752502312632,2011.0,0.2763698287088049,4,4,2,4
+13,Brunei Darussalam,Very High,Very High,Low,Very Low,-0.7471847252176581,36.28,-0.7992926517461638,-0.6275500455714494,-1.0417816062656924,-0.4551029520694192,2011.0,0.3125313032154663,2,1,2,4
+20,Jamaika,Very High,Very High,Medium,Medium,1.1065956860427189,28.11,0.4249081657969961,0.4766821830384147,0.6178536314198395,0.036646076413035,2011.0,0.5249924872282881,3,3,2,4
+24,Chile,Very High,Very High,Low,Low,-0.1546902786604828,31.25,-0.6747096710209237,-0.6535757209932308,-0.4874445313512007,-0.7524587297614896,2011.0,0.4263247520785335,2,2,2,4
+25,Mauritius,Very High,Very High,Low,Low,-0.1594588456347864,29.59,1.1741363693251772,1.3810744039453149,1.0317496447238388,0.8702306942090887,2011.0,0.276469998998297,2,2,2,4
+34,Japan,Very High,High,Very Low,Very Low,-2.1622569748421387,39.57,-0.959347175594563,-1.7763977177615098,-1.0242264735643811,0.083596988680204,2011.0,0.0023039166583191,1,1,2,3
+68,Niederlande,Very High,Medium,Very Low,Very Low,-2.164641258329291,29.24,-1.4922854820303133,-1.8256606033813103,-1.7932763253641455,-0.4575740527150598,2011.0,0.0023039166583191,1,1,2,2
+172,Katar,Very Low,Very Low,Very Low,Very Low,-2.1622569748421387,0.05,-0.9835716440689154,-1.7661733452743815,-1.074866279433549,0.0679466845911479,2011.0,0.0023039166583191,1,1,1,1
+173,Vanuatu,Very High,Very High,High,High,3.819910294421252,63.66,0.9171839715793692,0.6932529820839519,1.0162201042572947,0.7647970666617617,2013.0,0.8655714715015526,4,4,2,4
+174,Tonga,Very High,Very High,Medium,Medium,1.333102617322122,55.27,0.4378855596225419,0.0295982588285285,0.5901705375446946,0.5028603982238715,2013.0,0.5596514073925674,3,3,2,4
+175,Philippinen,Very High,Very High,Medium,High,0.8228659510716774,52.46,0.2406291734742446,0.0900150053433778,0.6921253466946189,-0.2376460952530574,2013.0,0.4997495742762696,3,4,2,4
+176,Guatemala,Very High,Very High,High,High,0.6023197285101531,36.3,1.2147988699785548,1.735209487363125,0.7414147577406093,1.027557435314865,2013.0,0.3782430131223079,4,4,2,4
+177,Bangladesch,Very High,Very High,High,High,0.5951668780486985,31.7,0.2968645467182765,-0.1191198864387933,0.4078672364156896,0.4559094859567025,2013.0,0.4558749874787138,4,4,2,4
+178,Salomonen,Very High,Very High,High,High,0.3150135683083841,29.98,1.7036140374074484,2.5066848659373564,0.8426943694789453,1.6173267894077257,2013.0,0.3105278974256235,4,4,2,4
+179,Costa Rica,Very High,Very High,Low,Low,0.2816335994882619,42.61,0.5148847629874473,0.4060410640364364,0.677271003639663,0.2845798411922964,2013.0,0.3851547630972653,2,2,2,4
+180,Kambodscha,Very High,Very High,High,High,0.0694323691317684,27.65,-1.0242341447222922,-1.2837688615635066,-0.662995858364316,-0.9789762889451996,2013.0,0.5274967444655915,4,4,2,4
+181,El Salvador,Very High,Very High,Medium,Medium,-0.1022360419431477,32.6,0.9068020565189326,0.4748232062225729,0.9210172692232582,1.046502540264776,2013.0,0.2995091655814885,3,3,2,4
+184,Brunei Darussalam,Very High,Very High,Low,Very Low,-0.258406610351578,41.1,1.0097560475349296,1.1487023019651246,0.9932633922632716,0.6552449380383676,2013.0,0.2712611439447059,2,1,2,4
+185,Mauritius,Very High,Very High,Low,Low,-0.2607908938387296,37.35,1.0391714735395006,1.543734875331448,0.4976684921570141,0.9921383260606852,2013.0,0.2695582490233397,2,2,2,4
+186,Nicaragua,Very High,Very High,High,High,-0.2727123112744878,27.23,0.0087664037911584,-0.2771329157853226,0.3065876246773537,-0.1033829601732581,2013.0,0.3346689371932285,4,4,2,4
+187,Japan,Very High,Very High,Very Low,Low,-0.3358958236840054,45.91,0.9448690784072004,1.2109780252958158,0.7623458774998655,0.6947825483686149,2013.0,0.2636482019433036,1,2,2,4
+188,Fidschi,Very High,Very High,Medium,Medium,-0.4729921241952231,27.71,-0.7958320133926851,-1.0151467116744066,-0.8142400785602312,-0.3809699327002045,2013.0,0.3723329660422718,3,3,2,4
+191,Chile,Very High,Very High,Low,Low,-0.8532853403959049,30.95,-2.0537740548822647,-1.0235121073456934,-2.223377076546279,-2.2474746203739766,2013.0,0.4657918461384353,2,2,2,4
+218,Niederlande,Very High,High,Very Low,Very Low,,30.57,,,,,2013.0,,1,1,2,3
+345,Katar,Very Low,Very Low,Very Low,Very Low,,0.28,,,,,2013.0,,1,1,1,1
+346,Vanuatu,Very High,Very High,High,High,,63.66,,,,,2015.0,,4,4,2,4
+347,Tonga,Very High,Very High,Medium,Medium,,55.27,,,,,2015.0,,3,3,2,4
+348,Philippinen,Very High,Very High,High,High,,52.46,,,,,2015.0,,4,4,2,4
+349,Guatemala,Very High,Very High,High,High,,36.3,,,,,2015.0,,4,4,2,4
+350,Salomonen,Very High,Very High,Very High,High,,29.98,,,,,2015.0,,5,4,2,4
+351,Bangladesch,Very High,Very High,High,High,,31.7,,,,,2015.0,,4,4,2,4
+352,Costa Rica,Very High,Very High,Low,Medium,,42.61,,,,,2015.0,,2,3,2,4
+353,Kambodscha,Very High,Very High,High,High,,27.65,,,,,2015.0,,4,4,2,4
+355,El Salvador,Very High,Very High,Medium,High,,32.6,,,,,2015.0,,3,4,2,4
+357,Brunei Darussalam,Very High,Very High,Low,Low,,41.1,,,,,2015.0,,2,2,2,4
+358,Mauritius,Very High,Very High,Low,Low,,37.35,,,,,2015.0,,2,2,2,4
+359,Nicaragua,Very High,Very High,High,High,,27.23,,,,,2015.0,,4,4,2,4
+361,Fidschi,Very High,Very High,Medium,Medium,,27.71,,,,,2015.0,,3,3,2,4
+362,Japan,Very High,Very High,Very Low,Low,,45.91,,,,,2015.0,,1,2,2,4
+371,Chile,Very High,Very High,Low,Low,,30.95,,,,,2015.0,,2,2,2,4
+395,Niederlande,Very High,High,Very Low,Very Low,,30.57,,,,,2015.0,,1,1,2,3
+516,Katar,Very Low,Very Low,Very Low,Very Low,,0.28,,,,,2015.0,,1,1,1,1
+517,Vanuatu,Very High,Very High,High,High,,63.66,,,,,2014.0,,4,4,2,4
+518,Philippines,Very High,Very High,High,High,,52.46,,,,,2014.0,,4,4,2,4
+519,Tonga,Very High,Very High,Medium,Medium,,55.27,,,,,2014.0,,3,3,2,4
+520,Guatemala,Very High,Very High,High,High,,36.3,,,,,2014.0,,4,4,2,4
+521,Bangladesh,Very High,Very High,High,High,,31.7,,,,,2014.0,,4,4,2,4
+522,Solomon Islands,Very High,Very High,Very High,High,,29.98,,,,,2014.0,,5,4,2,4
+523,Costa Rica,Very High,Very High,Low,Medium,,42.61,,,,,2014.0,,2,3,2,4
+524,El Salvador,Very High,Very High,High,High,,32.6,,,,,2014.0,,4,4,2,4
+525,Cambodia,Very High,Very High,High,High,,27.65,,,,,2014.0,,4,4,2,4
+528,Brunei Darussalam,Very High,Very High,Low,Low,,41.1,,,,,2014.0,,2,2,2,4
+529,Nicaragua,Very High,Very High,High,High,,27.23,,,,,2014.0,,4,4,2,4
+530,Mauritius,Very High,Very High,Low,Low,,37.35,,,,,2014.0,,2,2,2,4
+532,Fiji,Very High,Very High,Medium,Medium,,27.71,,,,,2014.0,,3,3,2,4
+533,Japan,Very High,Very High,Very Low,Low,,45.91,,,,,2014.0,,1,2,2,4
+542,Chile,Very High,Very High,Low,Low,,30.95,,,,,2014.0,,2,2,2,4
+567,Netherlands,Very High,High,Very Low,Very Low,,30.57,,,,,2014.0,,1,1,2,3
+687,Qatar,Very Low,Very Low,Very Low,Very Low,,0.28,,,,,2014.0,,1,1,1,1
+688,Vanuatu,Very High,Very High,High,High,,82.55,,,,,2021.0,,4,4,2,4
+689,Salomonen,Very High,Very High,High,Very High,,51.13,,,,,2021.0,,4,5,2,4
+690,Tonga,Very High,Very High,Medium,High,,63.63,,,,,2021.0,,3,4,2,4
+691,Dominica,Very High,Very High,Medium,Medium,,61.74,,,,,2021.0,,3,3,2,4
+692,Antigua und Barbuda,Very High,Very High,Low,Medium,,67.73,,,,,2021.0,,2,3,2,4
+693,Brunei Darussalam,Very High,Very High,Low,Very Low,,58.17,,,,,2021.0,,2,1,2,4
+694,Guyana,Very High,Very High,High,Medium,,43.93,,,,,2021.0,,4,3,2,4
+695,Philippinen,Very High,Very High,High,High,,42.68,,,,,2021.0,,4,4,2,4
+696,Papua-Neuguinea,Very High,Very High,Very High,Very High,,30.62,,,,,2021.0,,5,5,2,4
+697,Guatemala,Very High,Very High,High,High,,36.79,,,,,2021.0,,4,4,2,4
+698,Kap Verde,Very High,Very High,Medium,High,,37.23,,,,,2021.0,,3,4,2,4
+699,Costa Rica,Very High,Very High,Low,Low,,44.27,,,,,2021.0,,2,2,2,4
+700,Bangladesch,Very High,Very High,High,High,,28.11,,,,,2021.0,,4,4,2,4
+701,Fidschi,Very High,Very High,Medium,Medium,,34.51,,,,,2021.0,,3,3,2,4
+702,Kambodscha,Very High,Very High,High,High,,26.89,,,,,2021.0,,4,4,2,4
+703,Timor-Leste,Very High,Very High,High,High,,28.27,,,,,2021.0,,4,4,2,4
+705,El Salvador,Very High,Very High,High,Medium,,31.62,,,,,2021.0,,4,3,2,4
+706,Kiribati,Very High,Very High,High,High,,26.41,,,,,2021.0,,4,4,2,4
+709,Nicaragua,Very High,Very High,High,High,,26.02,,,,,2021.0,,4,4,2,4
+714,Uruguay,Very High,Very High,Low,Low,,35.97,,,,,2021.0,,2,2,2,4
+716,Jamaika,Very High,Very High,Medium,Medium,,25.92,,,,,2021.0,,3,3,2,4
+720,Chile,Very High,Very High,Low,Low,,32.51,,,,,2021.0,,2,2,2,4
+733,Japan,Very High,High,Very Low,Low,,38.51,,,,,2021.0,,1,2,2,3
+753,Niederlande,Very High,High,Very Low,Very Low,,31.75,,,,,2021.0,,1,1,2,3
+869,Vanuatu,Very High,Very High,High,High,,63.66,,,,,2017.0,,4,4,2,4
+870,Tonga,Very High,Very High,Medium,Medium,,55.27,,,,,2017.0,,3,3,2,4
+871,Philippinen,Very High,Very High,High,High,,52.46,,,,,2017.0,,4,4,2,4
+872,Guatemala,Very High,Very High,High,High,,36.3,,,,,2017.0,,4,4,2,4
+873,Bangladesch,Very High,Very High,High,High,,31.7,,,,,2017.0,,4,4,2,4
+874,Salomonen,Very High,Very High,High,High,,29.98,,,,,2017.0,,4,4,2,4
+875,Costa Rica,Very High,Very High,Low,Medium,,42.61,,,,,2017.0,,2,3,2,4
+876,Kambodscha,Very High,Very High,High,High,,27.65,,,,,2017.0,,4,4,2,4
+877,El Salvador,Very High,Very High,Medium,Medium,,32.6,,,,,2017.0,,3,3,2,4
+880,Brunei Darussalam,Very High,Very High,Low,Very Low,,41.1,,,,,2017.0,,2,1,2,4
+881,Mauritius,Very High,Very High,Low,Low,,37.35,,,,,2017.0,,2,2,2,4
+882,Nicaragua,Very High,Very High,High,High,,27.23,,,,,2017.0,,4,4,2,4
+883,Fidschi,Very High,Very High,Medium,Medium,,27.71,,,,,2017.0,,3,3,2,4
+885,Japan,Very High,Very High,Very Low,Low,,45.91,,,,,2017.0,,1,2,2,4
+890,Chile,Very High,Very High,Low,Low,,30.95,,,,,2017.0,,2,2,2,4
+918,Niederlande,Very High,High,Very Low,Very Low,,30.57,,,,,2017.0,,1,1,2,3
+1039,Katar,Very Low,Very Low,Very Low,Very Low,,0.28,,,,,2017.0,,1,1,1,1
+1040,Vanuatu,Very High,Very High,High,High,,99.88,,,,,2019.0,,4,4,2,4
+1041,Antigua und Barbuda,Very High,Very High,Medium,Medium,,69.95,,,,,2019.0,,3,3,2,4
+1042,Tonga,Very High,Very High,Medium,Medium,,61.41,,,,,2019.0,,3,3,2,4
+1043,Salomonen,Very High,Very High,High,Very High,,48.31,,,,,2019.0,,4,5,2,4
+1044,Guyana,Very High,Very High,High,Medium,,44.98,,,,,2019.0,,4,3,2,4
+1045,Papua-Neuguinea,Very High,Very High,Very High,Very High,,32.54,,,,,2019.0,,5,5,2,4
+1046,Brunei Darussalam,Very High,Very High,Low,Very Low,,57.62,,,,,2019.0,,2,1,2,4
+1047,Guatemala,Very High,Very High,High,High,,38.56,,,,,2019.0,,4,4,2,4
+1048,Philippinen,Very High,Very High,High,High,,41.93,,,,,2019.0,,4,4,2,4
+1049,Bangladesch,Very High,Very High,High,High,,32.48,,,,,2019.0,,4,4,2,4
+1050,Kap Verde,Very High,Very High,Medium,High,,38.26,,,,,2019.0,,3,4,2,4
+1051,Fidschi,Very High,Very High,Medium,Medium,,38.43,,,,,2019.0,,3,3,2,4
+1052,Costa Rica,Very High,Very High,Low,Low,,44.92,,,,,2019.0,,2,2,2,4
+1053,Dschibuti,Very High,Very High,High,High,,27.04,,,,,2019.0,,4,4,2,4
+1054,Timor-Leste,Very High,Very High,High,Very High,,27.92,,,,,2019.0,,4,5,2,4
+1056,Kambodscha,Very High,Very High,High,High,,26.82,,,,,2019.0,,4,4,2,4
+1057,El Salvador,Very High,Very High,Medium,Medium,,31.87,,,,,2019.0,,3,3,2,4
+1060,Nicaragua,Very High,Very High,High,High,,25.95,,,,,2019.0,,4,4,2,4
+1065,Uruguay,Very High,Very High,Low,Low,,36.03,,,,,2019.0,,2,2,2,4
+1066,Chile,Very High,Very High,Low,Low,,34.32,,,,,2019.0,,2,2,2,4
+1069,Jamaika,Very High,Very High,Medium,Medium,,26.18,,,,,2019.0,,3,3,2,4
+1093,Japan,Very High,High,Very Low,Low,,38.94,,,,,2019.0,,1,2,2,3
+1116,Niederlande,Very High,Medium,Very Low,Very Low,,31.73,,,,,2019.0,,1,1,2,2
+1220,Vanuatu,Very High,Very High,High,High,,86.77,,,,,2020.0,,4,4,2,4
+1221,Tonga,Very High,Very High,High,High,,61.21,,,,,2020.0,,4,4,2,4
+1222,Dominica,Very High,Very High,Medium,Medium,,62.74,,,,,2020.0,,3,3,2,4
+1223,Antigua und Barbuda,Very High,Very High,Low,Medium,,68.92,,,,,2020.0,,2,3,2,4
+1224,Salomonen,Very High,Very High,High,Very High,,40.04,,,,,2020.0,,4,5,2,4
+1225,Guyana,Very High,Very High,High,Medium,,44.92,,,,,2020.0,,4,3,2,4
+1226,Brunei Darussalam,Very High,Very High,Low,Very Low,,57.61,,,,,2020.0,,2,1,2,4
+1227,Papua-Neuguinea,Very High,Very High,Very High,Very High,,30.79,,,,,2020.0,,5,5,2,4
+1228,Philippinen,Very High,Very High,High,High,,42.3,,,,,2020.0,,4,4,2,4
+1229,Guatemala,Very High,Very High,High,High,,36.52,,,,,2020.0,,4,4,2,4
+1230,Kap Verde,Very High,Very High,Medium,High,,37.23,,,,,2020.0,,3,4,2,4
+1231,Costa Rica,Very High,Very High,Low,Low,,43.49,,,,,2020.0,,2,2,2,4
+1232,Bangladesch,Very High,Very High,High,High,,28.28,,,,,2020.0,,4,4,2,4
+1233,Dschibuti,Very High,Very High,High,High,,26.79,,,,,2020.0,,4,4,2,4
+1234,Fidschi,Very High,Very High,Medium,Medium,,34.63,,,,,2020.0,,3,3,2,4
+1235,Kambodscha,Very High,Very High,High,High,,26.8,,,,,2020.0,,4,4,2,4
+1236,El Salvador,Very High,Very High,High,Medium,,31.69,,,,,2020.0,,4,3,2,4
+1237,Kiribati,Very High,Very High,High,High,,26.05,,,,,2020.0,,4,4,2,4
+1246,Uruguay,Very High,Very High,Low,Low,,36.29,,,,,2020.0,,2,2,2,4
+1248,Jamaika,Very High,Very High,Medium,Medium,,26.05,,,,,2020.0,,3,3,2,4
+1249,Chile,Very High,Very High,Low,Low,,33.41,,,,,2020.0,,2,2,2,4
+1265,Japan,Very High,High,Very Low,Low,,38.67,,,,,2020.0,,1,2,2,3
+1284,Niederlande,Very High,High,Very Low,Very Low,,31.72,,,,,2020.0,,1,1,2,3
+1401,Vanuatu,Very High,Very High,High,High,,63.66,,,,,2012.0,,4,4,2,4
+1402,Tonga,Very High,Very High,Medium,Medium,,55.27,,,,,2012.0,,3,3,2,4
+1403,Philippinen,Very High,Very High,Medium,High,,52.46,,,,,2012.0,,3,4,2,4
+1404,Guatemala,Very High,Very High,High,High,,36.3,,,,,2012.0,,4,4,2,4
+1405,Bangladesch,Very High,Very High,Very High,High,,31.7,,,,,2012.0,,5,4,2,4
+1406,Salomonen,Very High,Very High,High,High,,29.98,,,,,2012.0,,4,4,2,4
+1407,Costa Rica,Very High,Very High,Low,Low,,42.61,,,,,2012.0,,2,2,2,4
+1408,Kambodscha,Very High,Very High,High,High,,27.65,,,,,2012.0,,4,4,2,4
+1410,El Salvador,Very High,Very High,Medium,Medium,,32.6,,,,,2012.0,,3,3,2,4
+1411,Brunei Darussalam,Very High,Very High,Low,Very Low,,41.1,,,,,2012.0,,2,1,2,4
+1413,Mauritius,Very High,Very High,Low,Low,,37.35,,,,,2012.0,,2,2,2,4
+1414,Nicaragua,Very High,Very High,High,High,,27.23,,,,,2012.0,,4,4,2,4
+1415,Fidschi,Very High,Very High,Medium,Medium,,27.71,,,,,2012.0,,3,3,2,4
+1416,Japan,Very High,Very High,Very Low,Very Low,,45.91,,,,,2012.0,,1,1,2,4
+1419,Chile,Very High,Very High,Low,Low,,30.95,,,,,2012.0,,2,2,2,4
+1451,Niederlande,Very High,High,Very Low,Very Low,,30.57,,,,,2012.0,,1,1,2,3
+1573,Katar,Very Low,Very Low,Very Low,Very Low,,0.28,,,,,2012.0,,1,1,1,1
+1574,Vanuatu,Very High,Very High,High,High,,86.46,,,,,2018.0,,4,4,2,4
+1575,Tonga,Very High,Very High,High,High,,55.92,,,,,2018.0,,4,4,2,4
+1576,Philippinen,Very High,Very High,High,High,,49.94,,,,,2018.0,,4,4,2,4
+1577,Salomonen,Very High,Very High,High,Very High,,37.81,,,,,2018.0,,4,5,2,4
+1578,Guyana,Very High,Very High,High,Medium,,45.56,,,,,2018.0,,4,3,2,4
+1579,Papua-Neuguinea,Very High,Very High,Very High,Very High,,31.05,,,,,2018.0,,5,5,2,4
+1580,Guatemala,Very High,Very High,High,High,,38.5,,,,,2018.0,,4,4,2,4
+1581,Brunei Darussalam,Very High,Very High,Low,Very Low,,52.71,,,,,2018.0,,2,1,2,4
+1582,Bangladesch,Very High,Very High,High,High,,29.95,,,,,2018.0,,4,4,2,4
+1583,Fidschi,Very High,Very High,Medium,Medium,,35.51,,,,,2018.0,,3,3,2,4
+1584,Costa Rica,Very High,Very High,Low,Low,,44.27,,,,,2018.0,,2,2,2,4
+1585,Kambodscha,Very High,Very High,High,High,,27.13,,,,,2018.0,,4,4,2,4
+1586,Timor-Leste,Very High,Very High,High,High,,26.96,,,,,2018.0,,4,4,2,4
+1587,El Salvador,Very High,Very High,Medium,Medium,,33.46,,,,,2018.0,,3,3,2,4
+1588,Kiribati,Very High,Very High,High,High,,26.37,,,,,2018.0,,4,4,2,4
+1589,Mauritius,Very High,Very High,Low,Low,,37.22,,,,,2018.0,,2,2,2,4
+1590,Nicaragua,Very High,Very High,High,High,,26.27,,,,,2018.0,,4,4,2,4
+1601,Chile,Very High,Very High,Low,Low,,31.84,,,,,2018.0,,2,2,2,4
+1602,Japan,Very High,Very High,Very Low,Low,,46.55,,,,,2018.0,,1,2,2,4
+1638,Niederlande,Very High,High,Very Low,Very Low,,31.86,,,,,2018.0,,1,1,2,3
+1746,Vanuatu,Very High,Very High,High,High,,63.66,,,,,2016.0,,4,4,2,4
+1747,Tonga,Very High,Very High,High,Medium,,55.27,,,,,2016.0,,4,3,2,4
+1748,Philippines,Very High,Very High,High,High,,52.46,,,,,2016.0,,4,4,2,4
+1749,Guatemala,Very High,Very High,High,High,,36.3,,,,,2016.0,,4,4,2,4
+1750,Bangladesh,Very High,Very High,High,High,,31.7,,,,,2016.0,,4,4,2,4
+1751,Solomon Islands,Very High,Very High,Very High,High,,29.98,,,,,2016.0,,5,4,2,4
+1752,Brunei Darussalam,Very High,Very High,Low,Low,,41.1,,,,,2016.0,,2,2,2,4
+1753,Costa Rica,Very High,Very High,Low,Low,,42.61,,,,,2016.0,,2,2,2,4
+1754,Cambodia,Very High,Very High,High,High,,27.65,,,,,2016.0,,4,4,2,4
+1756,El Salvador,Very High,Very High,Medium,Medium,,32.6,,,,,2016.0,,3,3,2,4
+1758,Mauritius,Very High,Very High,Low,Low,,37.35,,,,,2016.0,,2,2,2,4
+1759,Nicaragua,Very High,Very High,High,High,,27.23,,,,,2016.0,,4,4,2,4
+1761,Fiji,Very High,Very High,Medium,Medium,,27.71,,,,,2016.0,,3,3,2,4
+1762,Japan,Very High,Very High,Very Low,Low,,45.91,,,,,2016.0,,1,2,2,4
+1767,Chile,Very High,Very High,Low,Low,,30.95,,,,,2016.0,,2,2,2,4
+1794,Netherlands,Very High,High,Very Low,Very Low,,30.57,,,,,2016.0,,1,1,2,3
+1858,Korea Republic of 4.59,Very High,Very High,Very Low,High,,30.82,,,,,2016.0,,1,4,2,4
+1916,Qatar,Very Low,Very Low,Very Low,Very Low,,0.28,,,,,2016.0,,1,1,1,1
