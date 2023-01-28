@@ -7,10 +7,10 @@ Giovanna Lozito y Paula Fuente
 
 ---
 
-## Modulo 3: <span style="color:lightblue"> Machine Learning</span>
+## Modulo 3: <span style="color:bluetblue"> Machine Learning</span>
 ***
 
-## <span style="color:lightblue">Regresion Lineal</span>  
+## <span style="color:blue">Regresion Lineal</span>  
 Empezamos con explorar el Dataframe que tenemos y decidir cual será nuestra variable respuesta.    
 
 Utilizamos el DataFrame [*Global Disaster Risk*](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset)
@@ -85,7 +85,7 @@ warnings.filterwarnings('once')
 ```
 
 
-### <span style="color:lightblue">- Regresion Logistica</span>
+### <span style="color:blue">- Regresion Logistica</span>
 
 ---
 
