@@ -3,15 +3,15 @@
 Cuarto *Sprint* del *Bootcamp* de [Adalab](https://adalab.es/#), [Analistas de Datos](https://adalab.es/bootcamp-data/):
 
 Desde el 18 de Enero hasta el 1 de Febrero 2023
-Giovanna Lozito y Paula Fuente
+[Giovanna Lozito](https://github.com/VannaLZ) y [Paula Fuente](https://github.com/paulafuenteg)
 
 ---
 
 ## Modulo 3: <span style="color:bluetblue"> Machine Learning</span>
 ***
+### `Regresion Lineal`
 
-## <span style="color:blue">Regresion Lineal</span>  
-Empezamos con explorar el Dataframe que tenemos y decidir cual será nuestra variable respuesta.    
+Empezamos con explorar el *Dataframe* que tenemos y decidir cual será nuestra variable respuesta.    
 
 Utilizamos el DataFrame [*Global Disaster Risk*](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset)
 
