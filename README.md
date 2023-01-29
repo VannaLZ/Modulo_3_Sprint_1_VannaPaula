@@ -12,18 +12,18 @@ Desde el 18 de Enero hasta el 1 de Febrero 2023
 ### Índice
 
 - [Regresion Lineal](#regresion-lineal)
-    - [Regresion Lineal Estructura del repositorio](#rl-estructura-del-repositorio)
-    - [Regresion Lineal Biblioteca](#rl-bibliotecas)
+    - [Regresion Lineal Estructura del repositorio](#regresion-lineal-estructura-del-repositorio)
+    - [Regresion Lineal Biblioteca](#regresion-lineal-bibliotecas)
 - [Regresion Logistica](#regresion-logistica)
-    - Regresion Logistica Estructura del repositorio
-    - Regresion Logistica Biblioteca
+    - [Regresion Logistica Estructura del repositorio]()
+    - [Regresion Logistica Biblioteca](#regresion-logistica-biblioteca)
 
 ***
-### `Regresion Lineal`
+### **`Regresion Lineal`**
 
 Empezamos con explorar el *Dataframe* que tenemos y decidir cual será nuestra variable respuesta.    
 
-Utilizamos el DataFrame [*Global Disaster Risk*](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset)
+Utilizamos el *DataFrame* [*Global Disaster Risk*](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset)
 
 |Columna| Tipo de dato | Descripcion |
 |-------|--------------|-------------|
@@ -41,7 +41,7 @@ Utilizamos el DataFrame [*Global Disaster Risk*](https://www.kaggle.com/datasets
 |**Susceptibility Category**| String|	Susceptibility Category for the given Susceptibility Score.
 
 
-## **RL Estructura del repositorio**:
+### **Regresion Lineal Estructura del Repositorio**:
 - **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)  
     Aquí encontramos todos los ficheros que hemos ido utilizando.  
     La serie de ficheros de  <span style="color:lightblue">Regresion Lineal</span> están nombrado *world_risk_index* y hay diferentes formados que hemos ido guardando a lo largo de nuestro *pair*.
@@ -70,7 +70,7 @@ Aplicamos la Regresion lineal, *Decision Tree* y *Random Tree*.
     - [Lecc12-Forest_tree](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc12-Forest_Tree.ipynb)
 
 
-### RL Bibliotecas:
+### **Regresion Lineal Bibliotecas:**
 
 ```
 #Traducción columna region
@@ -99,11 +99,51 @@ warnings.filterwarnings('once')
 ```
 
 
-### <span style="color:blue">- Regresion Logistica</span>
+### **`Regresion Logistica`**
 
+
+Empezamos con explorar el Dataframe que tenemos y decidir cual será nuestra variable respuesta.  
+Utilizamos el *DataFrame* [Fraude de Tarjeta de Credito](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
+
+|Column| Type | Description |
+|-------|--------------|-------------|
+|distance_from_home| float64|	The distance from home where the transaction happened
+|distance_from_last_transaction| float64|	The distance from last transaction happened.
+|ratio_to_median_purchase_price| float64|	Ratio of purchased price transaction to median purchase price.
+|repeat_retailer| float64|	Is the transaction happened from same retailer. 
+|used_chip| float64|	Is the transaction through chip (credit card)
+|used_pin_number| float64|	Is the transaction happened by using PIN number. 
+|online_order | float64| Is the transaction an online order.
+|fraud | float64| Is the transaction fraudulent.   
 ---
 
+### **Regresion Logistica Biblioteca:**
 
+```# Tratamiento de datos
+import numpy as np
+import pandas as pd
+
+
+# Gráficos
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+# Estandarización variables numéricas y Codificación variables categóricas
+from sklearn.preprocessing import StandardScaler
+
+# Gestión datos desbalanceados
+from imblearn.under_sampling import RandomUnderSampler
+from imblearn.over_sampling import RandomOverSampler
+from imblearn.combine import SMOTETomek
+
+# Para separar los datos en train y test
+from sklearn.model_selection import train_test_split
+
+#  Gestión de warnings
+import warnings
+warnings.filterwarnings("ignore")
+``` 
 
 
 
