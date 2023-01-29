@@ -8,6 +8,16 @@ Desde el 18 de Enero hasta el 1 de Febrero 2023
 ---
 
 ## Modulo 3: <span style="color:bluetblue"> Machine Learning</span>
+
+### Índice
+
+- [Regresion Lineal](#regresion-lineal)
+    - [Regresion Lineal Estructura del repositorio](#rl-estructura-del-repositorio)
+    - [Regresion Lineal Biblioteca](#rl-bibliotecas)
+- [Regresion Logistica](#regresion-logistica)
+    - Regresion Logistica Estructura del repositorio
+    - Regresion Logistica Biblioteca
+
 ***
 ### `Regresion Lineal`
 
@@ -31,10 +41,14 @@ Utilizamos el DataFrame [*Global Disaster Risk*](https://www.kaggle.com/datasets
 |**Susceptibility Category**| String|	Susceptibility Category for the given Susceptibility Score.
 
 
-### **Estructura del repositorio**:
+## **RL Estructura del repositorio**:
 - **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)  
     Aquí encontramos todos los ficheros que hemos ido utilizando.  
     La serie de ficheros de  <span style="color:lightblue">Regresion Lineal</span> están nombrado *world_risk_index* y hay diferentes formados que hemos ido guardando a lo largo de nuestro *pair*.
+
+- **deepl** - [Carpeta]()
+Aquí encontramos los ficheros en lo que hemos realizado la traducción de la columna *region*.  
+Enlace con toda la info sobre deepL [deepl-Python](https://github.com/DeepLcom/deepl-python).
 
 - **Regresion Lineal** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Lineal)  
 En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos si hay nulos, *outliers*, realizamos graficas.  
@@ -56,7 +70,7 @@ Aplicamos la Regresion lineal, *Decision Tree* y *Random Tree*.
     - [Lecc12-Forest_tree](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc12-Forest_Tree.ipynb)
 
 
-### Bibliotecas:
+### RL Bibliotecas:
 
 ```
 #Traducción columna region
