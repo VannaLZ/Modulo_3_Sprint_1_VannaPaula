@@ -1,6 +1,6 @@
 # DA-promoC-Mod3-sprint1-VannayPaula
 
-Cuarto *Sprint* del *Bootcamp* de [Adalab](https://adalab.es/#), [Analistas de Datos](https://adalab.es/bootcamp-data/):
+*Bootcamp* de [Adalab](https://adalab.es/#), [Analistas de Datos](https://adalab.es/bootcamp-data/):
 
 Desde el 18 de Enero hasta el 1 de Febrero 2023
 [Giovanna Lozito](https://github.com/VannaLZ) y [Paula Fuente](https://github.com/paulafuenteg)
