@@ -32,14 +32,14 @@ Utilizamos el DataFrame [*Global Disaster Risk*](https://www.kaggle.com/datasets
 
 
 ### **Estructura del repositorio**:
-- **datos** - [Fichero](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)  
+- **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)  
     Aquí encontramos todos los ficheros que hemos ido utilizando.  
     La serie de ficheros de  <span style="color:lightblue">Regresion Lineal</span> están nombrado *world_risk_index* y hay diferentes formados que hemos ido guardando a lo largo de nuestro *pair*.
 
-- **Regresion Lineal** - [Fichero](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Lineal)  
+- **Regresion Lineal** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Lineal)  
 En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos si hay nulos, *outliers*, realizamos graficas.  
 Averiguamos correlaciones, normalizamos, estandardizamos y aplicamos el *encoding* a los datos.  
-Aplicaremos la Regresion lineal, Decision Tree y Random Tree.  
+Aplicamos la Regresion lineal, *Decision Tree* y *Random Tree*.  
 
 
     - [Lecc01-Intro_ML](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc01-Intro_ML.ipynb)
