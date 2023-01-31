@@ -158,7 +158,7 @@ Aplicamos ambos el *Decision Tree* y el *Random Forest*.
 > Estos ultimos dos `jupiters`,están ejecutado directamente en el `google colab`.  
 
 - **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)    
-    La serie de ficheros de Regresion Logistica están nombrados como resultado_fraude, y como explicado en 
+    La serie de ficheros de Regresion Logistica están nombrados como resultado_fraude.
 
 - **Regresion Logistica** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Logistica) 
 
