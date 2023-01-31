@@ -50,7 +50,7 @@ Utilizamos el *DataFrame* [*Global Disaster Risk*](https://www.kaggle.com/datase
     Aquí encontramos todos los ficheros que hemos ido utilizando.  
     La serie de ficheros de  <span style="color:lightblue">Regresion Lineal</span> están nombrado *world_risk_index* y hay diferentes formados que hemos ido guardando a lo largo de nuestro *pair*.
 
-- **deepl** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/deepl)
+- **deepl** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/deepl)  
 Aquí encontramos los ficheros en lo que hemos realizado la traducción de la columna *region*.  
 Enlace con toda la info sobre deepL [deepl-Python](https://github.com/DeepLcom/deepl-python).
 
