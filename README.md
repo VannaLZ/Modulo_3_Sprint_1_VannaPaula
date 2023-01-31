@@ -53,7 +53,7 @@ Enlace con toda la info sobre deepL [deepl-Python](https://github.com/DeepLcom/d
 - **Regresion Lineal** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Lineal)  
 En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos si hay nulos, *outliers*, realizamos graficas.  
 Averiguamos correlaciones, normalizamos, estandardizamos y aplicamos el *encoding* a los datos.  
-Aplicamos la Regresion lineal, *Decision Tree* y *Random Tree*.  
+Aplicamos la Regresion lineal, *Decision Tree* y *Random Forest*.  
 
 
     - [Lecc01-Intro_ML](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc01-Intro_ML.ipynb)
@@ -67,7 +67,7 @@ Aplicamos la Regresion lineal, *Decision Tree* y *Random Tree*.
     - [Lecc09-Regresion_lineal_Intro](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc09-Regresion_lineal_Intro.ipynb)
     - [Lecc10-Regresion_lineal_Metricas](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc10-Regresion-lineal_Metricas.ipynb)
     - [Lecc11-Decision_tree](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc11-Decision_Tree.ipynb)
-    - [Lecc12-Forest_tree](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc12-Forest_Tree.ipynb)
+    - [Lecc12-Random_Forest](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Lineal/Lecc12-Random_Forest.ipynb)
 
 
 ### **Regresion Lineal Bibliotecas:**
@@ -116,6 +116,19 @@ Utilizamos el *DataFrame* [Fraude de Tarjeta de Credito](https://www.kaggle.com/
 |online_order | float64| Is the transaction an online order.
 |fraud | float64| Is the transaction fraudulent.   
 ---
+
+### **Regresion Logistica Estructura del Repositorio**
+
+En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos si hay nulos, *outliers*, realizamos graficas.  
+ 
+Aplicamos la Regresion logistica, *Decision Tree* y *Random Forest* y estos dos `jupiters` están ejecutado directamente en el `google colab`.
+
+   - [Lecc01-EDA](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc01-EDA.ipynb)
+    - [Lecc02-Preparacion_Datos](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc02-Preparacion_Datos.ipynb)
+    - [Lecc03-Ajuste](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc03-Ajuste.ipynb)
+    - [Lecc04-Metricas](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc04-Metricas.ipynb)
+    - [Lecc05-Decision_Tree]()
+    - [Lecc06-Random_Forest]()
 
 ### **Regresion Logistica Biblioteca:**
 
