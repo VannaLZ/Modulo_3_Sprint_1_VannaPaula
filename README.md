@@ -138,8 +138,8 @@ Utilizamos el *DataFrame* [Fraude de Tarjeta de Credito](https://www.kaggle.com/
 |Column| Type | Description |
 |-------|--------------|-------------|
 |distance_from_home| float64|	Distancia desde casa donde occurrió la transacción
-|distance_from_last_transaction| float64|	Distancia desde  donde occurrió la uñtima transacción  
-|ratio_to_median_purchase_price| float64|	Ratio entre ek orecio de la transacción y el precio de la compra media
+|distance_from_last_transaction| float64|	Distancia desde donde occurrió la uñtima transacción  
+|ratio_to_median_purchase_price| float64|	Ratio entre el precio de la transacción y el precio de la compra media
 |repeat_retailer| float64|	¿La transacción se realizó desde el mismo vendidore/tienda? 
 |used_chip| float64|	¿La transacción se realizó con el chip? 
 |used_pin_number| float64|	¿La transacción se realizó utilizando el pin?  
@@ -155,7 +155,7 @@ En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, uti
 Aplicamos ambos el *Decision Tree* y el *Random Forest*.
 
 > 🔺🔺 **ATENCÍON** 🔺🔺  
-> Estos dos ultimos dos `jupiters` están ejecutado directamente en el `google colab`.  
+> Estos ultimos dos `jupiters`,están ejecutado directamente en el `google colab`.  
 
 - **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)    
     La serie de ficheros de Regresion Logistica están nombrados como resultado_fraude, y como explicado en 
@@ -182,7 +182,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 # Estandarización variables numéricas y Codificación variables categóricas
 from sklearn.preprocessing import StandardScaler
 
@@ -191,8 +190,12 @@ from imblearn.under_sampling import RandomUnderSampler
 from imblearn.over_sampling import RandomOverSampler
 from imblearn.combine import SMOTETomek
 
-# Para separar los datos en train y test
+# Para separar los datos en train y test / matriz de confusión / Modelado 
 from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
+from sklearn.metrics import confusion_matrix, accuracy_score, precision_score, recall_score, f1_score , cohen_kappa_score, roc_curve,roc_auc_score
+from sklearn.tree import DecisionTreeClassifier
+from sklearn import tree
 
 #  Gestión de warnings
 import warnings
