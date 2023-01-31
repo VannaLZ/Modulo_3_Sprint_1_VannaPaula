@@ -53,8 +53,8 @@ Utilizamos el *DataFrame* [*Global Disaster Risk*](https://www.kaggle.com/datase
 - **deepl** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/deepl)  
 Aquí encontramos los ficheros en lo que hemos realizado la traducción de la columna *region*.  
 Enlace con toda la info sobre deepL [deepl-Python](https://github.com/DeepLcom/deepl-python).  
-> :octocat::octocat: **ATENCÍON** :octocat::octocat:     
-> Se necesita el *token* para ejecutar el `jupiter`. 
+>:octocat::octocat: **ATENCÍON** :octocat::octocat:     
+Se necesita el *token* para ejecutar el `jupiter`. 
 
 - **Regresion Lineal** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Lineal)  
 En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos si hay nulos, *outliers*, realizamos graficas.  
@@ -156,8 +156,8 @@ Utilizamos el *DataFrame* [Fraude de Tarjeta de Credito](https://www.kaggle.com/
 En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos la distribución de los datos, los balanceamos, estandarizamos y utilizamos la matriz de correlación.  
 Aplicamos ambos el *Decision Tree* y el *Random Forest*.
 
-> 🔺🔺 **ATENCÍON** 🔺🔺  
-> Estos ultimos dos `jupiters`,están ejecutado directamente en el `google colab`.  
+> :warning::warning: **ATENCÍON** :warning::warning:  
+> Estos ultimos dos `jupiters` están ejecutado directamente en el `google colab`.  
 
 - **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)    
     La serie de ficheros de Regresion Logistica están nombrados como resultado_fraude.
