@@ -153,16 +153,12 @@ Utilizamos el *DataFrame* [Fraude de Tarjeta de Credito](https://www.kaggle.com/
 
 ### **Regresion Logistica Estructura del Repositorio**
 
-En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos la distribución de los datos, los balanceamos, estandarizamos y utilizamos la matriz de correlación.  
-Aplicamos ambos el *Decision Tree* y el *Random Forest*.
-
-> :warning::warning: **ATENCÍON** :warning::warning:  
-> Estos ultimos dos `jupiters` están ejecutado directamente en el `google colab`.  
-
 - **datos** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/datos)    
     La serie de ficheros de Regresion Logistica están nombrados como resultado_fraude.
 
-- **Regresion Logistica** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Logistica) 
+- **Regresion Logistica** - [Carpeta](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/tree/main/Regresion%20Logistica)   
+En los siguientes ficheros podemos encontar nuestro estudio sobre los datos, utilizando la metodologia EDA, averiguamos la distribución de los datos, los balanceamos, estandarizamos y utilizamos la matriz de correlación.  
+Aplicamos ambos el *Decision Tree* y el *Random Forest*.
 
     - [Lecc01-EDA](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc01-EDA.ipynb)  
     - [Lecc02-Preparacion_Datos](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc02-Preparacion_Datos.ipynb)  
@@ -170,6 +166,9 @@ Aplicamos ambos el *Decision Tree* y el *Random Forest*.
     - [Lecc04-Metricas](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc04-Metricas.ipynb)  
     - [Lecc05-Decision_Tree](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc05-Decision_Tree.ipynb)  
     - [Lecc06-Random_Forest](https://github.com/Adalab/DA-promoC-Mod3-sprint1-VannayPaula/blob/main/Regresion%20Logistica/Lecc06-Random_Forest.ipynb)  
+
+> :warning::warning: **ATENCÍON** :warning::warning:  
+> Estos ultimos dos `jupiters` están ejecutado directamente en el `google colab`. 
 
 ---    
 
