@@ -24,7 +24,7 @@ Desde el 18 de Enero hasta el 1 de Febrero 2023
    
 ### **`Regresion Lineal`**
 
-Empezamos con explorar el *Dataframe* que tenemos y decidir cual será nuestra variable respuesta.    
+Empezamos con explorar el *Dataframe* que tenemos y decidir cual será nuestra variable respuesta: *Exposure*.   
 
 Utilizamos el *DataFrame* [*Global Disaster Risk*](https://www.kaggle.com/datasets/tr1gg3rtrash/global-disaster-risk-index-time-series-dataset)
 
@@ -134,7 +134,7 @@ warnings.filterwarnings('once')
 ### **`Regresion Logistica`**
 
 
-Empezamos con explorar el Dataframe que tenemos y decidir cual será nuestra variable respuesta.  
+Empezamos con explorar el Dataframe que tenemos y decidir cual será nuestra variable respuesta: *fraud*:      
 Utilizamos el *DataFrame* [Fraude de Tarjeta de Credito](https://www.kaggle.com/datasets/dhanushnarayananr/credit-card-fraud)
 
 |Column| Type | Description |
