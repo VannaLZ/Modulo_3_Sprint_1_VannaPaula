@@ -15,10 +15,10 @@ Desde el 18 de Enero hasta el 1 de Febrero 2023
 
 - [Regresion Lineal](#regresion-lineal)
     - [Regresion Lineal Estructura del repositorio](#regresion-lineal-estructura-del-repositorio)
-    - [Regresion Lineal Biblioteca](#regresion-lineal-bibliotecas)
+    - [Regresion Lineal Librería](#regresion-lineal-librería)
 - [Regresion Logistica](#regresion-logistica)
     - [Regresion Logistica Estructura del repositorio](#regresion-logistica-estructura-del-repositorio)
-    - [Regresion Logistica Biblioteca](#regresion-logistica-biblioteca)
+    - [Regresion Logistica Librería](#regresion-logistica-librería)
 
 ***
    
@@ -79,7 +79,7 @@ Aplicamos la Regresion lineal, *Decision Tree* y *Random Forest*.
 
 
 
-### **Regresion Lineal Bibliotecas:**
+### **Regresion Lineal Librería:**
 
 ```
 #Traducción columna region
@@ -173,7 +173,7 @@ Aplicamos ambos el *Decision Tree* y el *Random Forest*.
 
 ---    
 
-### **Regresion Logistica Biblioteca:**
+### **Regresion Logistica Librería:**
 
 ```# Tratamiento de datos
 import numpy as np
