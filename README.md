@@ -1,5 +1,3 @@
-# DA-promoC-Mod3-sprint1-VannayPaula
-
 *Bootcamp* de [Adalab](https://adalab.es/#), [Analistas de Datos](https://adalab.es/bootcamp-data/):
 
 Desde el 18 de Enero hasta el 1 de Febrero 2023
